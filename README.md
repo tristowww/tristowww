@@ -22,6 +22,12 @@ A look at AI-related session topics across five years of public SIOP conference 
 
 [Interactive visualization](https://tristowww.github.io/siop-conference-data-viz/) · [Code and data workflow](https://github.com/tristowww/siop-conference-data-viz)
 
+### Zero-shot Model Evaluation
+
+A study of how prompt choices affect model performance across tasks and dataset-annotated groups. Includes the study's mixed findings and a synthetic example of comparing predictions on the same cases.
+
+[Study, methods, and example](https://github.com/tristowww/zero-shot-model-evaluation)
+
 ## Earlier projects
 
 - [Academic Title Generation](https://github.com/tristowww/Academic-title-generation): original T5 notebooks for suggesting research titles from abstracts, with an inference example and a training tutorial.
