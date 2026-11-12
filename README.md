@@ -22,6 +22,11 @@ A look at AI-related session topics across five years of public SIOP conference 
 
 [Interactive visualization](https://tristowww.github.io/siop-conference-data-viz/) · [Code and data workflow](https://github.com/tristowww/siop-conference-data-viz)
 
+## Earlier projects
+
+- [Academic Title Generation](https://github.com/tristowww/Academic-title-generation): original T5 notebooks for suggesting research titles from abstracts, with an inference example and a training tutorial.
+- [Music Note Identification](https://github.com/tristowww/MusicNote_CVproject): a course-project report exploring musical-note identification from spectrograms. The original report and figures are preserved.
+
 ## Tools I work with
 
 Python, SQL, R, Power BI, and Qualtrics, alongside survey design, psychometrics, mixed methods, and human evaluation.
