@@ -12,7 +12,7 @@ A response-length method for finding turns worth reviewing in research conversat
 
 ### Conversation Analysis Skills
 
-Reusable analysis skills for studying what people discuss in research interviews and how the conversation unfolds. Covers topics, sentiment, participant intent, actionability, and interviewer behavior, with synthetic worked examples and a reproducible preparation workflow for Anthropic's public interviews.
+Reusable analysis skills for studying what people discuss in research interviews and how the conversation unfolds. Covers topics, sentiment, participant intent, actionability, and interviewer behavior, with worked examples from three real Anthropic interviews and reproducible checks against the source.
 
 [Skills, examples, and public-data workflow](https://github.com/tristowww/conversation-analysis-skills)
 
