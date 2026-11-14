@@ -16,6 +16,12 @@ Reusable analysis skills for studying what people discuss in research interviews
 
 [Skills, examples, and public-data workflow](https://github.com/tristowww/conversation-analysis-skills)
 
+### Conversational Quality Analysis
+
+Exploratory analysis of behavioral indicators of conversational quality using AMI meeting audio and annotations. Covers turn-taking, listening responses, vocal delivery, reciprocity, and context, with reproducible notebooks and a validation plan.
+
+[Analysis, findings, and measurement framework](https://github.com/tristowww/conversational-quality-analysis)
+
 ### Antiwork Subreddit Analysis
 
 Exploratory analysis of management-related Reddit discussion over four years. Includes topic modeling, aggregate trends, robustness checks, and a separate whole-post sentiment analysis. The methods explain how much of the discussion the theme map covers and where interpretation needs care.
