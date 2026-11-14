@@ -10,6 +10,12 @@ A response-length method for finding turns worth reviewing in research conversat
 
 [Interactive example](https://tristowww.github.io/conversation-dropoff-analysis/) · [Code and findings](https://github.com/tristowww/conversation-dropoff-analysis)
 
+### Conversation Analysis Skills
+
+Reusable analysis skills for studying what people discuss in research interviews and how the conversation unfolds. Covers topics, sentiment, participant intent, actionability, and interviewer behavior, with synthetic worked examples and a reproducible preparation workflow for Anthropic's public interviews.
+
+[Skills, examples, and public-data workflow](https://github.com/tristowww/conversation-analysis-skills)
+
 ### Antiwork Subreddit Analysis
 
 Exploratory analysis of management-related Reddit discussion over four years. Includes topic modeling, aggregate trends, robustness checks, and a separate whole-post sentiment analysis. The methods explain how much of the discussion the theme map covers and where interpretation needs care.
